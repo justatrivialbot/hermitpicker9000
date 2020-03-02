@@ -73,7 +73,7 @@ h2 {
     width: 65%;
     min-height: 100px;
     height: auto;
-    float: left;
+    padding-left: 10px;
   }
 
   #questions {
@@ -81,6 +81,7 @@ h2 {
     padding: 0px 5px;
     float: left;
     border-right: 1px solid black;
+    margin-right: 10px;
   }
 
   .mobile {
@@ -94,10 +95,7 @@ h2 {
   }
 
   #questions {
-    width: 22%;
+    width: 25%;
   }
 
-  #hermitpics {
-    width: 75%;
-  }
 }
