@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  $('.jswarning').hide();
   var str = "";
   var Hermits = [
     {
@@ -103,7 +104,7 @@ $(document).ready(function() {
       "youtube":"keralis",
       "twitch":"keralis",
       "twitter":"worldofkeralis",
-      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "bigchannel", "male", "Europe", "regularreleases", "diversecontent", "S1", "S2", "S3", "S6", "S7", "Modded","IDEA"]
+      "traits": ["builder", "calm", "derpy", "lore", "heavyediting", "bigchannel", "male", "Europe", "regularreleases", "diversecontent", "S1", "S2", "S3", "S6", "S7", "Modded","IDEA"]
     },
     {
       "name":"Mumbo Jumbo",
@@ -143,7 +144,7 @@ $(document).ready(function() {
       "youtube":"selif1",
       "twitch":"tinfoilchef",
       "twitter":"tinfoilchef",
-      "traits": ["builder", "redstone", "calm", "lightediting", "smallchannel", "male", "US", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "Modded"]
+      "traits": ["builder", "calm", "lightediting", "smallchannel", "male", "US", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "Modded"]
     },
     {
       "name":"VintageBeef",
@@ -159,7 +160,7 @@ $(document).ready(function() {
       "youtube":"xbxaxcx",
       "twitch":"xbcrafted",
       "twitter":"xBCrafted",
-      "traits": ["builder", "calm", "derpy", "lightediting", "smallchannel", "male", "US", "streamer", "regularreleases", "diversecontent", "S2", "S3", "S7", "Modded"]
+      "traits": ["builder", "calm", "derpy", "lightediting", "smallchannel", "male", "US", "streamer", "regularreleases", "diversecontent", "S2", "S3", "S5", "S7", "Modded"]
     },
     {
       "name":"Xisuma",
