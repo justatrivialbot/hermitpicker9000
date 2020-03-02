@@ -68,16 +68,16 @@ h2 {
   padding: 0px 5px;
 }
 
-@media (min-width:992px) {
+@media (min-width:768px) {
   #hermitpics {
-    width: 75%;
+    width: 65%;
     min-height: 100px;
     height: auto;
     float: left;
   }
 
   #questions {
-    width:21%;
+    width:30%;
     padding: 0px 5px;
     float: left;
     border-right: 1px solid black;
@@ -94,6 +94,10 @@ h2 {
   }
 
   #questions {
-    width: 23%;
+    width: 22%;
+  }
+
+  #hermitpics {
+    width: 75%;
   }
 }
