@@ -188,7 +188,7 @@ $(document).ready(function() {
   ]
 
   for (i in Hermits) {
-    console.log(Hermits[i].name);
+    //console.log(Hermits[i].name);
     str += "<div class=\"hermitblock ";
       for (j in Hermits[i].traits) {
         str += Hermits[i].traits[j] + " ";
@@ -227,13 +227,3 @@ $(document).ready(function() {
   })
 
 });
-/*
-{
-  "name":"",
-  "img":"",
-  "youtube":"",
-  "twitch":"",
-  "twitter":"",
-  "traits": ["builder", "redstone", "hyper", "calm", "lore", "heavyediting", "lightediting", "alteregos", "bigchannel", "smallchannel", "male", "female", "US", "Europe", "streamer", "regularreleases", "slowreleases", "mostlyminecraft", "diversecontent", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "Modded", "Architech", "Concorp", "NHO", "IDEA", "Mindcrack"]
-}
-*/
