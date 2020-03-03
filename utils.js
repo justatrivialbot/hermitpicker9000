@@ -213,8 +213,10 @@ $(document).ready(function() {
   $('.hermitselector').change(function() {
     var selectedTraits = [];
     $('.hermitselector:checked').each(function() {
-      var newTrait = $(this).val();
-      selectedTraits.push(newTrait);
+      if ($(this).val() != "np"){
+        var newTrait = $(this).val();
+        selectedTraits.push(newTrait);
+      }
     })
     var traitString = selectedTraits.join('.');
     //console.log(traitString);

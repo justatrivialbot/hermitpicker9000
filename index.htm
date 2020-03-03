@@ -25,6 +25,7 @@
         </div><!--end header-->
         <div id="questions">
           <H1>What matters to you?</H1>
+          <p>Note: The picker will only choose Hermits which match ALL of your selected options.</p>
           <form name="pickerform" id="pickerform" action="" method="post">
             <p>
               <label>Content:</label><br>
@@ -53,10 +54,13 @@
             <p>
               <label>Editing Style:</label><br>
               <label>
-                <input class="hermitselector" type="checkbox" value="heavyediting" >Heavy</input>
+                <input class="hermitselector" type="radio" name="editing" value="np" checked>No preference</input>
               </label>
               <label>
-                <input class="hermitselector" type="checkbox" value="lightediting" >Light</input>
+                <input class="hermitselector" type="radio" name="editing" value="heavyediting" >Heavy</input>
+              </label>
+              <label>
+                <input class="hermitselector" type="radio" name="editing" value="lightediting" >Light</input>
               </label>
             </p>
             <p>
@@ -71,28 +75,37 @@
             <p>
               <label>Popularity:</label><br>
               <label>
-                <input class="hermitselector" type="checkbox" value="bigchannel" >Super popular! (1m+ Subs)</input>
+                <input class="hermitselector" type="radio" name="popularity" value="np" checked>No preference</input>
               </label><br>
               <label>
-                <input class="hermitselector" type="checkbox" value="smallchannel" >Super Small! (<500k subs)</input>
+                <input class="hermitselector" type="radio" name="popularity" value="bigchannel" >Super popular! (1m+ Subs)</input>
+              </label><br>
+              <label>
+                <input class="hermitselector" type="radio" name="popularity" value="smallchannel" >Super Small! (<500k subs)</input>
               </label>
             </p>
             <p>
               <label>Gender:</label><br>
               <label>
-                <input class="hermitselector" type="checkbox" value="male" >Male</input>
-              </label>
+                <input class="hermitselector" type="radio" name="gender" value="np" checked>No preference</input>
+              </label><br>
               <label>
-                <input class="hermitselector" type="checkbox" value="female" >Female</input>
+                <input class="hermitselector" type="radio" name="gender" value="male" >Male</input>
+              </label><br>
+              <label>
+                <input class="hermitselector" type="radio" name="gender" value="female" >Female</input>
               </label>
             </p>
             <p>
               <label>Continent:</label><br>
               <label>
-                <input class="hermitselector" type="checkbox" value="US" >North America</input>
+                <input class="hermitselector" type="radio" name="continent" value="np" checked>No preference</input>
+              </label><br>
+              <label>
+                <input class="hermitselector" type="radio" name="continent" value="US" >North America</input>
               </label>
               <label>
-                <input class="hermitselector" type="checkbox" value="Europe" >Europe</input>
+                <input class="hermitselector" type="radio" name="continent" value="Europe" >Europe</input>
               </label>
             </p>
             <p>
