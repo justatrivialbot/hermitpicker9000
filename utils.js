@@ -8,7 +8,7 @@ $(document).ready(function() {
       "youtube": "bdoubleo100",
       "twitch": "bdoubleo",
       "twitter": "BdoubleO100",
-      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "bigchannel", "male", "US", "regularreleases", "mostlyminecraft", "S1", "S5", "S6", "S7", "S8" "NHO", "IDEA"]
+      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "bigchannel", "male", "US", "regularreleases", "mostlyminecraft", "S1", "S5", "S6", "S7", "S8", "NHO", "IDEA"]
     },
     {
       "name":"cubfan135",
