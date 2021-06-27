@@ -74,6 +74,7 @@ h2 {
     min-height: 100px;
     height: auto;
     padding-left: 10px;
+    float:left;
   }
 
   #questions {
