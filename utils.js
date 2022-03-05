@@ -8,7 +8,7 @@ $(document).ready(function() {
       "youtube": "bdoubleo100",
       "twitch": "bdoubleo",
       "twitter": "BdoubleO100",
-      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "bigchannel", "male", "US", "regularreleases", "mostlyminecraft", "S1", "S5", "S6", "S7", "S8", "NHO", "IDEA"]
+      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "bigchannel", "male", "US", "regularreleases", "mostlyminecraft", "S1", "S5", "S6", "S7", "S8", "NHO", "IDEA", "S9"]
     },
     {
       "name":"cubfan135",
@@ -16,7 +16,7 @@ $(document).ready(function() {
       "youtube":"cubfan135",
       "twitch":"cubfan135",
       "twitter":"cubfan135",
-      "traits": ["builder", "redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "mostlyminecraft", "S4", "S5", "S6", "S7", "S8", "Modded", "Concorp"]
+      "traits": ["builder", "redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "mostlyminecraft", "S4", "S5", "S6", "S7", "S8", "Modded", "Concorp", "S9"]
     },
     {
       "name":"Docm77",
@@ -24,7 +24,7 @@ $(document).ready(function() {
       "youtube":"docm77",
       "twitch":"docm77live",
       "twitter":"docm77",
-      "traits": ["redstone", "calm", "whizkid", "lore", "heavyediting", "male", "Europe", "streamer", "regularreleases", "diversecontent", "S3", "S4", "S5", "S6", "S7", "S8", "NHO"]
+      "traits": ["redstone", "calm", "whizkid", "lore", "heavyediting", "male", "Europe", "streamer", "regularreleases", "diversecontent", "S3", "S4", "S5", "S6", "S7", "S8", "NHO", "S9"]
     },
     {
       "name":"Etho",
@@ -32,7 +32,7 @@ $(document).ready(function() {
       "youtube":"ethoslab",
       "twitch":"ethotv",
       "twitter":"etholp",
-      "traits": ["redstone", "calm", "whizkid", "heavyediting", "bigchannel", "male", "US", "S3", "S4", "S5", "S7", "S8", "Modded", "NHO"]
+      "traits": ["redstone", "calm", "whizkid", "heavyediting", "bigchannel", "male", "US", "S3", "S4", "S5", "S7", "S8", "Modded", "NHO", "S9"]
     },
     {
       "name":"Falsesymmetry",
@@ -40,7 +40,7 @@ $(document).ready(function() {
       "youtube":"FalseSymmetry",
       "twitch":"FalseSymmetry",
       "twitter":"falsesymmetry",
-      "traits": ["builder", "calm", "derpy", "lore", "lightediting", "smallchannel", "female", "Europe", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8"]
+      "traits": ["builder", "calm", "derpy", "lore", "lightediting", "smallchannel", "female", "Europe", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"GeminiTay",
@@ -48,7 +48,7 @@ $(document).ready(function() {
       "youtube":"c/GeminiTayMC",
       "twitch":"geminitay",
       "twitter":"geminitaymc",
-      "traits": ["builder", "calm", "whizkid", "lightediting", "female", "US", "streamer", "regularreleases", "S8", "Modded"]
+      "traits": ["builder", "calm", "whizkid", "lightediting", "female", "US", "streamer", "regularreleases", "S8", "Modded", "S9"]
     },
     {
       "name":"GoodTimesWithScar",
@@ -56,7 +56,7 @@ $(document).ready(function() {
       "youtube":"goodtimeswithscar",
       "twitch":"goodtimeswithscar",
       "twitter":"GTWScar",
-      "traits": ["builder", "calm", "derpy", "lore", "heavyediting", "alteregos", "bigchannel", "male", "US", "streamer", "S4", "S5", "S6", "S7", "S8", "Concorp"]
+      "traits": ["builder", "calm", "derpy", "lore", "heavyediting", "alteregos", "bigchannel", "male", "US", "streamer", "S4", "S5", "S6", "S7", "S8", "Concorp", "S9"]
     },
     {
       "name":"Grian",
@@ -64,7 +64,7 @@ $(document).ready(function() {
       "youtube":"Xelqua",
       "twitch":"grianmc",
       "twitter":"GrianMC",
-      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "alteregos", "bigchannel", "male", "Europe", "regularreleases", "S6", "S7", "S8", "Architech"]
+      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "alteregos", "bigchannel", "male", "Europe", "regularreleases", "S6", "S7", "S8", "Architech", "S9"]
     },
     {
       "name":"Hypnotizd",
@@ -72,7 +72,7 @@ $(document).ready(function() {
       "youtube":"hypnotizd",
       "twitch":"hypnotizd",
       "twitter":"hypnotizd_",
-      "traits": ["builder", "redstone", "calm", "lightediting", "smallchannel", "male",  "US", "streamer", "regularreleases", "S1", "S2", "S3", "S7", "S8", "Modded"]
+      "traits": ["builder", "redstone", "calm", "lightediting", "smallchannel", "male",  "US", "streamer", "regularreleases", "S1", "S2", "S3", "S7", "S8", "Modded", "S9"]
     },
     {
       "name":"iJevin",
@@ -80,7 +80,7 @@ $(document).ready(function() {
       "youtube":"ijevin",
       "twitch":"ijevin",
       "twitter":"ijevin",
-      "traits": ["builder", "redstone", "hyper", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8"]
+      "traits": ["builder", "redstone", "hyper", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"impulseSV",
@@ -88,7 +88,7 @@ $(document).ready(function() {
       "youtube":"impulseSV",
       "twitch":"impulsesv",
       "twitter":"impulseSV",
-      "traits": ["redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "S3", "S4", "S5", "S6", "S7", "S8"]
+      "traits": ["redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"iskall85",
@@ -96,7 +96,7 @@ $(document).ready(function() {
       "youtube":"Iskall85",
       "twitch":"iskall85",
       "twitter":"iskall85",
-      "traits": ["builder", "redstone", "derpy", "hyper", "lore", "lightediting", "bigchannel", "male", "Europe", "streamer", "regularreleases", "S4", "S5", "S6", "S7", "S8", "Modded", "Architech"]
+      "traits": ["builder", "redstone", "derpy", "hyper", "lore", "lightediting", "bigchannel", "male", "Europe", "streamer", "regularreleases", "S4", "S5", "S6", "S7", "S8", "Modded", "Architech", "S9"]
     },
     {
       "name":"Joe Hills",
@@ -104,7 +104,7 @@ $(document).ready(function() {
       "youtube":"joehillstsd",
       "twitch":"joehills",
       "twitter":"joehills",
-      "traits": ["builder", "calm", "whizkid", "lore", "lightediting", "smallchannel", "male", "US", "streamer", "regularreleases", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8"]
+      "traits": ["builder", "calm", "whizkid", "lore", "lightediting", "smallchannel", "male", "US", "streamer", "regularreleases", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"Keralis",
@@ -112,7 +112,7 @@ $(document).ready(function() {
       "youtube":"keralis",
       "twitch":"keralis",
       "twitter":"worldofkeralis",
-      "traits": ["builder", "calm", "derpy", "lore", "heavyediting", "bigchannel", "male", "Europe", "regularreleases", "diversecontent", "S1", "S2", "S3", "S6", "S7", "S8", "Modded","IDEA"]
+      "traits": ["builder", "calm", "derpy", "lore", "heavyediting", "bigchannel", "male", "Europe", "regularreleases", "diversecontent", "S1", "S2", "S3", "S6", "S7", "S8", "Modded","IDEA", "S9"]
     },
     {
       "name":"Mumbo Jumbo",
@@ -120,7 +120,7 @@ $(document).ready(function() {
       "youtube":"ThatMumboJumbo",
       "twitch":"thatmumbojumbo",
       "twitter":"ThatMumboJumbo",
-      "traits": ["redstone", "calm", "derpy", "lore", "heavyediting", "bigchannel", "male", "Europe", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8",  "Architech"]
+      "traits": ["redstone", "calm", "derpy", "lore", "heavyediting", "bigchannel", "male", "Europe", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8",  "Architech", "S9"]
     },
     {
       "name":"PearlescentMoon",
@@ -128,7 +128,7 @@ $(document).ready(function() {
       "youtube":"c/pearlescentmoon",
       "twitch":"pearlescentmoon",
       "twitter":"pearlescentmoon",
-      "traits": ["builder", "lore", "lightediting", "smallchannel", "female", "Oceania", "streamer", "regularreleases", "diversecontent", "S8", "Modded"]
+      "traits": ["builder", "lore", "lightediting", "smallchannel", "female", "Oceania", "streamer", "regularreleases", "diversecontent", "S8", "Modded", "S9"]
     },
     {
       "name":"Rendog",
@@ -136,7 +136,7 @@ $(document).ready(function() {
       "youtube":"rendog",
       "twitch":"rendogtv",
       "twitter":"renthedog",
-      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "alteregos", "male", "Europe", "streamer", "regularreleases", "S4", "S5", "S6", "S7", "S8", "Modded"]
+      "traits": ["builder", "hyper", "derpy", "lore", "heavyediting", "alteregos", "male", "Europe", "streamer", "regularreleases", "S4", "S5", "S6", "S7", "S8", "Modded", "S9"]
     },
     {
       "name":"Stressmonster101",
@@ -144,7 +144,7 @@ $(document).ready(function() {
       "youtube":"stressmonster101",
       "twitch":"stressmonster",
       "twitter":"stressmonsterin",
-      "traits": ["builder", "hyper", "derpy", "lore", "lightediting", "smallchannel", "female", "Europe", "streamer", "regularreleases", "S5", "S6", "S7", "S8"]
+      "traits": ["builder", "hyper", "derpy", "lore", "lightediting", "smallchannel", "female", "Europe", "streamer", "regularreleases", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"Tango Tek",
@@ -152,7 +152,7 @@ $(document).ready(function() {
       "youtube":"TangoTekLP",
       "twitch":"tangotek",
       "twitter":"TangoTekLP",
-      "traits": ["redstone", "hyper", "derpy", "whizkid", "heavyediting", "male", "US", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8"]
+      "traits": ["redstone", "hyper", "derpy", "whizkid", "heavyediting", "male", "US", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"Tinfoil Chef",
@@ -160,7 +160,7 @@ $(document).ready(function() {
       "youtube":"selif1",
       "twitch":"tinfoilchef",
       "twitter":"tinfoilchef",
-      "traits": ["builder", "calm", "lightediting", "smallchannel", "male", "US", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "Modded"]
+      "traits": ["builder", "calm", "lightediting", "smallchannel", "male", "US", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "Modded", "S9"]
     },
     {
       "name":"VintageBeef",
@@ -168,7 +168,7 @@ $(document).ready(function() {
       "youtube":"vintagebeef",
       "twitch":"vintagebeef",
       "twitter":"vintagebeeflp",
-      "traits": ["builder", "calm", "lore", "lightediting", "bigchannel", "male", "US", "regularreleases", "diversecontent", "S4", "S5", "S7", "S8", "Modded", "NHO"]
+      "traits": ["builder", "calm", "lore", "lightediting", "bigchannel", "male", "US", "regularreleases", "diversecontent", "S4", "S5", "S7", "S8", "Modded", "NHO", "S9"]
     },
     {
       "name":"Welsknight",
@@ -176,7 +176,7 @@ $(document).ready(function() {
       "youtube":"welsknightgaming",
       "twitch":"welsknight",
       "twitter":"welsknightplays",
-      "traits": ["builder", "calm", "lightediting", "alteregos", "male", "US", "regularreleases", "diversecontent", "S2", "S3", "S5", "S7", "S8", "Modded"]
+      "traits": ["builder", "calm", "lightediting", "alteregos", "male", "US", "regularreleases", "diversecontent", "S2", "S3", "S5", "S7", "S8", "Modded", "S9"]
     },
     {
       "name":"xbCrafted",
@@ -184,7 +184,7 @@ $(document).ready(function() {
       "youtube":"xbxaxcx",
       "twitch":"xbcrafted",
       "twitter":"xBCrafted",
-      "traits": ["builder", "calm", "derpy", "lightediting", "smallchannel", "male", "US", "streamer", "regularreleases", "diversecontent", "S2", "S3", "S5", "S7", "S8", "Modded"]
+      "traits": ["builder", "calm", "derpy", "lightediting", "smallchannel", "male", "US", "streamer", "regularreleases", "diversecontent", "S2", "S3", "S5", "S7", "S8", "Modded", "S9"]
     },
     {
       "name":"Xisuma",
@@ -192,7 +192,7 @@ $(document).ready(function() {
       "youtube":"xisumavoid",
       "twitch":"xisuma",
       "twitter":"xisumavoid",
-      "traits": ["builder", "redstone", "calm", "derpy", "lightediting", "alteregos", "bigchannel", "male", "Europe", "streamer", "regularreleases", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "Modded", "IDEA"]
+      "traits": ["builder", "redstone", "calm", "derpy", "lightediting", "alteregos", "bigchannel", "male", "Europe", "streamer", "regularreleases", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "Modded", "IDEA", "S9"]
     },
     {
       "name":"Zedaph",
@@ -200,7 +200,7 @@ $(document).ready(function() {
       "youtube":"zedaphplays",
       "twitch":"ZedaphPlays",
       "twitter":"ZedaphPlays",
-      "traits": ["builder", "redstone", "hyper", "derpy", "whizkid", "heavyediting", "alteregos", "smallchannel", "male", "Europe", "streamer", "S5", "S6", "S7", "S8"]
+      "traits": ["builder", "redstone", "hyper", "derpy", "whizkid", "heavyediting", "alteregos", "smallchannel", "male", "Europe", "streamer", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"ZombieCleo",
@@ -208,7 +208,7 @@ $(document).ready(function() {
       "youtube":"zombiecleo",
       "twitch":"zombiecleo",
       "twitter":"zombiecleo",
-      "traits": ["builder", "hyper", "whizkid", "lore", "heavyediting", "smallchannel", "female", "Europe", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "S8"]
+      "traits": ["builder", "hyper", "whizkid", "lore", "heavyediting", "smallchannel", "female", "Europe", "regularreleases", "diversecontent", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     }
   ]
 
