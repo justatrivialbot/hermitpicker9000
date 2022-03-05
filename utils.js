@@ -48,7 +48,7 @@ $(document).ready(function() {
       "youtube":"c/GeminiTayMC",
       "twitch":"geminitay",
       "twitter":"geminitaymc",
-      "traits": ["builder", "calm", "whizkid", "lightediting", "female", "US", "streamer", "regularreleases", "S8", "Modded", "S9"]
+      "traits": ["builder", "calm", "whizkid", "lightediting", "female", "US", "streamer", "bigchannel", "regularreleases", "S8", "Modded", "S9"]
     },
     {
       "name":"GoodTimesWithScar",
@@ -88,7 +88,7 @@ $(document).ready(function() {
       "youtube":"impulseSV",
       "twitch":"impulsesv",
       "twitter":"impulseSV",
-      "traits": ["redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "regularreleases", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
+      "traits": ["redstone", "calm", "whizkid", "lore", "lightediting", "male", "US", "streamer", "bigchannel", "regularreleases", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"iskall85",
@@ -128,7 +128,7 @@ $(document).ready(function() {
       "youtube":"c/pearlescentmoon",
       "twitch":"pearlescentmoon",
       "twitter":"pearlescentmoon",
-      "traits": ["builder", "lore", "lightediting", "smallchannel", "female", "Oceania", "streamer", "regularreleases", "diversecontent", "S8", "Modded", "S9"]
+      "traits": ["builder", "lore", "lightediting", "female", "Oceania", "streamer", "regularreleases", "diversecontent", "S8", "Modded", "S9"]
     },
     {
       "name":"Rendog",
@@ -152,7 +152,7 @@ $(document).ready(function() {
       "youtube":"TangoTekLP",
       "twitch":"tangotek",
       "twitter":"TangoTekLP",
-      "traits": ["redstone", "hyper", "derpy", "whizkid", "heavyediting", "male", "US", "streamer", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
+      "traits": ["redstone", "hyper", "derpy", "whizkid", "heavyediting", "male", "US", "streamer", "bigchannel", "regularreleases", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9"]
     },
     {
       "name":"Tinfoil Chef",
