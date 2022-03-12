@@ -96,7 +96,7 @@ $(document).ready(function() {
       "youtube":"Iskall85",
       "twitch":"iskall85",
       "twitter":"iskall85",
-      "traits": ["builder", "redstone", "derpy", "hyper", "lore", "lightediting", "bigchannel", "male", "Europe", "streamer", "regularreleases", "S4", "S5", "S6", "S7", "S8", "Modded", "Architech", "S9"]
+      "traits": ["builder", "redstone", "derpy", "hyper", "lore", "lightediting", "alteregos", "bigchannel", "male", "Europe", "streamer", "regularreleases", "S4", "S5", "S6", "S7", "S8", "Modded", "Architech", "S9"]
     },
     {
       "name":"Joe Hills",
